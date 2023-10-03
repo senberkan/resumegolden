@@ -1,0 +1,104 @@
+.navbar{
+    background-color: #BD5D38;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 17rem;
+    height: 100vh;
+}
+.golden{
+    border: 10px solid #CC7D61;
+    border-radius: 100%;
+    margin-bottom: 1rem;
+    margin-right:3%;
+    margin-left:3rem;
+    margin-top:26vh;;
+    
+    
+}
+.navbar a{
+    color: #E3B6A6;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 20px ;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+    
+}
+
+
+
+.LeftList li{
+    margin-top: 5%;
+    list-style-type: none;
+    text-align: center;
+    margin-left:auto ;
+    margin-right: 20%;
+
+    
+}
+
+.About{
+    
+    margin-top: 29vh;
+    margin-left: 20%;
+    display: block;
+    background-color: white;
+
+}
+.About ul{
+    list-style-type: none;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    font-size: 500%;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: #343A3F;
+    letter-spacing: -0.2rem;
+}
+#soyad{
+    margin-left: 1.5%;
+    color: #BD5D38;
+}
+.contact{
+    display: flex;
+    margin-top: -4%;
+    font-family: monospace;
+    font-weight: bolder;
+    color: #6C757D;
+    text-transform: uppercase;
+    font-size: 150%;
+}
+#mail{
+    color: #BD5D38;
+    margin-left: 1%;
+}
+span{
+    margin-top: 25%;
+    margin-left: 9%;
+}
+p{
+    font-family: monospace;
+    color: #6C757D;
+    font-size: 150%;
+   margin-left: 4%;
+   margin-right: 2%;
+    
+}
+#iki{
+    margin-top: -1%;
+}
+
+.butonlar{
+ color: #343A3F;
+ margin-left: 22%;
+ font-size: 300%;
+ padding: 24px ;
+ letter-spacing: 0.8rem;
+}
